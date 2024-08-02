@@ -11,8 +11,7 @@ The following metrics were further calculated
 
 |               |   MACD  |  Bollinger Bands | Keltner Channels |
 |---------------|-------------|------------|----------|
-| Cumulative Returns    |   161.15%  |   142.46%  | 133.74%  |
-|   Sharpe Ratio     |  0.69  | 0.71 |  0.83 |
-|   Max Drawdown   |  -14.21%  |   -6.04% | -8.44% |
+| Cumulative Returns    |   268.42%  |   107.02%  | 69.10%  |
+
 
 
